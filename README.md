@@ -2,7 +2,7 @@
 # 👨‍💼 Tony Xu - Data Analytics & Strategy Expert 🚀
 
 ## 🌟 About Me
-Hello! I'm Tony, a dynamic and results-driven data analytics professional with a solid foundation in both economics and mathematical sciences. I'm currently enhancing my expertise with a Master's in Management in Analytics at McGill University, set to graduate in August 2024.
+Hello! I'm Tony, a dynamic and results-driven data analytics professional with a solid foundation in both economics and mathematical sciences. I'm currently enhancing my expertise with a Master's in Management in Analytics at McGill University, set to graduate in Dec 2024.
 
 ### 🎓 Education
 - **Bachelor's Degree in Economics and Mathematical Sciences** - Carnegie Mellon University
@@ -18,13 +18,11 @@ Hello! I'm Tony, a dynamic and results-driven data analytics professional with a
 
 ## 🛠 Skills & Expertise
 - **Data Analysis & Business Strategy**
-- **Tools:** SQL, Tableau, Excel
-- **Collaboration & Innovation**
+- **Tools:** SQL, Tableau, Excel, Power BI, Python
 
 ## 🤝 Let's Connect
 I am passionate about leveraging data to drive business strategy and decision-making. If you're looking for a data analyst who is adept at extracting insights and guiding decisions through data, I'd love to connect.
-
-- **LinkedIn:** [Tony Xu](#)
+- **Linkedin:**  www.linkedin.com/in/tony-xu-mcgill
 - **Email:** [tian.xu3@mail.mcgill.ca](mailto:tian.xu3@mail.mcgill.ca)
 
 Feel free to connect or reach out! 📧
